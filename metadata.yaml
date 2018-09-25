@@ -1,0 +1,38 @@
+_repo: The-Orlando-Innamorato_57869
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rose, William Stewart
+    birthdate: 1775
+    deathdate: 1843
+    gutenberg_agent_id: '32278'
+    url: http://www.gutenberg.org/2009/agents/32278
+    wikipedia: http://en.wikipedia.org/wiki/William_Stewart_Rose
+creator:
+  authors:
+  - agent_name: Berni, Francesco
+    gutenberg_agent_id: '49661'
+    url: http://www.gutenberg.org/2009/agents/49661
+  - agent_name: Boiardo, Matteo Maria
+    aliases:
+    - Boiardo, Mattheo Maria
+    - Boyardo, Matteo Maria
+    - Bojardo, Matteo Maria, conte di Scandiano
+    birthdate: 1440
+    deathdate: 1494
+    gutenberg_agent_id: '6265'
+    url: http://www.gutenberg.org/2009/agents/6265
+    wikipedia: http://en.wikipedia.org/wiki/Matteo_Maria_Boiardo
+description: ''
+gutenberg_issued: '2018-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Orlando Innamorato
+url: http://www.gutenberg.org/ebooks/57869
